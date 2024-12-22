@@ -1,1 +1,1 @@
-# Step-3-Genome-Assembly-with-Minimap2-
+# Step-3-Genome-Assembly-with-Minimap2
